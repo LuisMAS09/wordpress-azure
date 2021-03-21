@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Ayala_Suarez_Luis_Miguel-mi_delete_link
+Plugin Name: AyalaSuarezLuisMiguel-MiDeleteLink
 Description: Este pluging agrega un enlace para borrar un post desde el front-end, para el usuario que crea el post
 Version: 1.2
 Author: Luis Miguel Ayala
